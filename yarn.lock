@@ -2578,6 +2578,16 @@ locate-path@^5.0.0:
   dependencies:
     p-locate "^4.1.0"
 
+lodash-es@4.17.4:
+  version "4.17.4"
+  resolved "https://registry.npmjs.org/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
+  integrity sha1-3MHXVS4VCgZABzupyzHXDwMpUOc=
+
+lodash-es@4.17.6:
+  version "4.17.6"
+  resolved "https://registry.npmjs.org/lodash-es/-/lodash-es-4.17.6.tgz#b90209ca7627de7cadd5212dff8b77c607aec8b0"
+  integrity sha512-KcGk5kdDAmD5NTWYuZir25GhKzhaMbPq2x1uOCswgI5Vp9l6eZmp5TUodEKHwc4yFempIiLAkCLIORuQs4pC3A==
+
 lodash._reinterpolate@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/lodash._reinterpolate/download/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
