@@ -4,6 +4,7 @@
   "main": "main/index.js",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.26.1",
     "lodash": "^4.17.21",
     "lodash-es": "4.17.6"
   }
